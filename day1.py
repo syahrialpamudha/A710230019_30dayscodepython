@@ -1,4 +1,3 @@
-
 # Fungsi untuk menghitung luas persegi panjang
 def hitung_luas(panjang, lebar):
     return panjang * lebar
