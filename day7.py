@@ -22,3 +22,4 @@ perusahaan.tambah_pekerja("Wardhana")
 
 print(f"Jumlah pekerja: {perusahaan.jumlah_pekerja()}")
 
+perusahaan.tampilkan_pekerja()
